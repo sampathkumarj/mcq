@@ -1,0 +1,39 @@
+.quiz{
+    list-style: none;
+    text-align: left;
+    padding:0px 10px;
+    text-decoration: none;
+}
+.choices li{
+    padding-left: 20px;
+    padding-top: 10px;
+    color: antiquewhite;
+}
+h2{
+    color: rgb(235, 144, 26);
+}
+
+#myresults{
+    color: azure;
+    background-color: black;
+    padding: 7px 10px;
+}
+.view-results{
+    background-color: blue;
+    color: aliceblue;
+    padding: 7px 10px;
+}
+
+
+body{
+    width:calc(100%-20%);
+    height: 100%;
+        background-image: url("res1.png");
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+       background-size: 100% 100%;
+    
+}
+.container-fluid ul{
+    list-style: none !important;
+}
